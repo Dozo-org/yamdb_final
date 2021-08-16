@@ -102,3 +102,7 @@ docker-compose exec web python manage.py createsuperuser
 Если возникли вопросы или пожелания по проекту можете написать на почту - rogachew.r@yandex.ru
 
 Список [разработчиков](https://github.com/Dozo-org/api_yamdb/graphs/contributors) принимавших участие в проекте.
+
+## Ссылки
+
+Проект доступен по следующей ссылке <http://178.154.224.251/>
